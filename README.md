@@ -1,5 +1,7 @@
 # implementing-NAT-overload-PAT-with-OSPF
 
+<img width="1780" height="613" alt="nat (pat) with ospf" src="https://github.com/user-attachments/assets/87f20b76-cef2-4a71-9cbb-aae33948bf68" />
+
 
 
 # 🌐 NAT Overload Lab – Cisco 2911 Configuration
